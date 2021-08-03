@@ -7,3 +7,11 @@
 [Video base](https://www.youtube.com/watch?v=TXyfJU5mON8&t=19s)
 
 Nesse projeto foi feito um CRUD onde você pode adicionar, retirar e editar livros da lista.
+
+Para utilizar o projeto basta clona-lo. Em seguida entrar na pasta e instalar os pacotes:
+
+`npm i`
+
+Por fim é só startar a aplicação com 
+
+`npm start`
